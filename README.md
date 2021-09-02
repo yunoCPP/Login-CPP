@@ -3,6 +3,6 @@ Easy Login System in C++
 
 CREATED BY ME
 
-yuno#2285 on discord !
+My Discord : yuno#2285 
 
 My Twitter : @yunoCPP
