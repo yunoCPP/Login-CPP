@@ -1,6 +1,8 @@
 # Login-CPP
-Easy Login System in C++ 
+Easy Login System in C++  
 
-created by yuno#2285 on discord !
+CREATED BY ME
+
+yuno#2285 on discord !
 
 My Twitter : @yunoCPP
